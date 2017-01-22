@@ -1,5 +1,5 @@
 # The monopoly
-This is the term project of the course "Oject-oriented Programming".
-/code    °üº¬ËùÓĞµÄ°üÒÔ¼°ÀàµÄÔ´´úÂë£¨eclipseµÄ¹¤³Ì½á¹¹£©
-/runable applicaiton    °üº¬¿ÉÖ´ĞĞµÄJar°üÒÔ¼°ËùÓÃµ½µÄÍ¼Æ¬¡¾Ë«»÷jar¼´¿ÉÔËĞĞ£¬×¢ÒâĞëÓëiconsÎÄ¼ş¼Ğ´¦ÓÚÍ¬Ò»Ä¿Â¼¡¿
-/report.pdf    ¹ØÓÚ¶Ô´ó¸»ÎÌÍ¼ĞÎ»¯°æ±¾µÄËµÃ÷£¨°üÀ¨Í¼ĞÎ½çÃæÉè¼Æ¡¢À©Õ¹ÄÚÈİºÍÈô¸ÉÎÊÌâ£©
+This is the term project of the course "Oject-oriented Programming".<br/>
+/code Â   åŒ…å«æ‰€æœ‰çš„åŒ…ä»¥åŠç±»çš„æºä»£ç ï¼ˆeclipseçš„å·¥ç¨‹ç»“æ„ï¼‰<br/>
+/runable applicaiton    åŒ…å«å¯æ‰§è¡Œçš„JaråŒ…ä»¥åŠæ‰€ç”¨åˆ°çš„å›¾ç‰‡ã€åŒå‡»jarå³å¯è¿è¡Œï¼Œæ³¨æ„é¡»ä¸iconsæ–‡ä»¶å¤¹å¤„äºåŒä¸€ç›®å½•ã€‘<br/>
+/report.pdf    å…³äºå¯¹å¤§å¯Œç¿å›¾å½¢åŒ–ç‰ˆæœ¬çš„è¯´æ˜ï¼ˆåŒ…æ‹¬å›¾å½¢ç•Œé¢è®¾è®¡ã€æ‰©å±•å†…å®¹å’Œè‹¥å¹²é—®é¢˜ï¼‰<br/>
