@@ -1,5 +1,5 @@
 # The monopoly
-This is the term project of the course "Oject-oriented Programming".
+This is the term project of the course "Object-oriented Programming".
 
 directory | description 
 --------- | -----------
